@@ -21,6 +21,7 @@ int s=4;
 		System.out.println(obj1.s);
 		System.out.println(obj1.v);
 		System.out.println("class");
+		System.out.println("newone");
 
 	}
 
