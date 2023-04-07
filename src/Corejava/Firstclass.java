@@ -20,7 +20,7 @@ int s=4;
 		System.out.println(v);
 		System.out.println(obj1.s);
 		System.out.println(obj1.v);
-		
+		System.out.println("class");
 
 	}
 
